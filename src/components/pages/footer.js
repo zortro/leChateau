@@ -3,6 +3,7 @@ function Footer() {
     return(
         <div>
             <div>
+                <h1>Contact us!</h1>
                 <ul>
                     <li>
                         <p>Phone</p>

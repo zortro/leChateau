@@ -37,7 +37,7 @@ function Home() {
                 <img src="http://placehold.it/"></img>
                 <h1>Our Wine</h1>
                 <p>
-                Chateau Faire Le Pont Winery makes a variety of wines that appeal to different tastes and occasions. According to their website1, some of their wines include:
+                We here at the Chateau make a variety of wines that appeal to different tastes and occasions.
                 </p>
 
                 <ul>
@@ -59,7 +59,7 @@ function Home() {
 
                 </ul>
                 <p>
-                    A customer would enjoy these wines because they are made with high-quality grapes sourced from some of the best vineyards in Washington State1. They also reflect the winery’s mission to bridge the gap between quality and quantity1. The winery uses state-of-the-art technology and techniques to craft wines that express the terroir and character of each varietal2. The winery also offers a beautiful setting for tasting their wines1, with an elegant tasting bar2, a restaurant that serves fabulous dishes made with fresh local ingredients1, a fireplace or an outdoor deck with panoramic views of the mountains1, and an educational vineyard that showcases different grape varieties1. The winery also hosts various events throughout the year such as winemaker’s dinners2, wine club events2, live music nights2, etc.
+                    A customer would enjoy these wines because they are made with high-quality grapes sourced from some of the best vineyards in Washington State1. They also reflect the winery’s mission to bridge the gap between quality and quantity. The winery uses state-of-the-art technology and techniques to craft wines that express the terroir and character of each varietal. The winery also offers a beautiful setting for tasting their wines1, with an elegant tasting bar, a restaurant that serves fabulous dishes made with fresh local ingredients1, a fireplace or an outdoor deck with panoramic views of the mountains1, and an educational vineyard that showcases different grape varieties1. The winery also hosts various events throughout the year such as winemaker’s dinners, wine club events, live music nights, etc.
                 </p>
                 <button>Link</button>
             </div>
